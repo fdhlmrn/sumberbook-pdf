@@ -1,0 +1,23 @@
+# Summary
+
+* [Introduction](README.md)
+* [Registration](Registration/README.md)
+    * [Sign up employee](Registration/Signup.md)
+    * [Activation Email](Registration/Activation.md)
+    * [Login](Registration/Login.md)
+    * [Wizard](Registration/Wizard.md)
+    * [Forgot Password](Registration/ForgotPassword.md)
+* [Setup](Setup/README.md)
+    * [Organization Setup](Setup/Organization.md)
+    * [Branch Setup](Setup/Branch.md)
+    * [Department Setup](Setup/Department.md)
+    * [Unit Setup](Setup/Unit.md)
+    * [Employee Group Setup](Setup/EmployeeGroup.md)
+    * [Holiday Setup](Setup/Holiday.md)
+* [Employee](Employee/README.md)
+    * [Dashboard](Employee/EmployeeDashboard.md)
+    * [Add Employee](Employee/AddEmployee.md)
+* [Leave Policy](Leave/README.md)
+    * [Leave Policy Dashboard](Leave/LeavePolicy.md)
+* [Reference](Registration/Reference.md)
+
