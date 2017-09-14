@@ -19,7 +19,4 @@
 <br/>
 <br/>
 ### Number of records displayed can also be change from 10 up to 100.
-<br/>
-<br/>
-<br/>
 ### Click on "[New Employee](/Employee/AddEmployee.md)" to add new employee entry.

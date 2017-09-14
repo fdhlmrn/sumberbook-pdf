@@ -136,4 +136,4 @@
 <br/>
 <br/>
 <br/>
-![Delete Employee](/Images/Employee/employee_delete.png)
+![Delete Employee](/Images/Employee/Employee_Delete.png)
