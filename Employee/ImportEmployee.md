@@ -25,9 +25,10 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 ###Click 'Import Success Row' to import file's data to the database
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

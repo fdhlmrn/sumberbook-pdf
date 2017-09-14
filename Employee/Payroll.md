@@ -58,10 +58,11 @@
 | Rejected | Payroll rejected |
 | Cancelled | Payroll cancelled |
 | Processed | Payroll in process |
+
 <br/>
 <br/>
 <br/>
-###Click edit button on the status column
+###Click edit button on the action column
 <br/>
 <br/>
 ###Click preview payslip to view payslip and verify
