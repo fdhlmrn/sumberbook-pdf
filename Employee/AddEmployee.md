@@ -22,7 +22,16 @@
 | Middle Name  | What is Employee's Middle Name |
 | Last Name | What is Employee's Last Name |
 | Email  |  Employee's Email address for login purposes |
+| Role | Employee's role in the organization |
 
+<br/>
+<br/>
+<br/>
+### Form: Address. *** compulsory**
+<br/>
+<br/>
+<br/>
+![Create Employee: 2](/Images/Employee/employee_create_address.png)
 <br/>
 <br/>
 <br/>

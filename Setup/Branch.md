@@ -50,10 +50,10 @@
 | Instruction  | Explanation |
 | ------------- | ------------- |
 | Address | Company's address. Need to be more than 10 characters |
-| Postcode  | |
-| City | |
-| State | |
-| Country | ||
+| Postcode  | City's poscode |
+| City | Company's city |
+| State | Company's state |
+| Country | Company's country |
 
 <br/>
 <br/>
