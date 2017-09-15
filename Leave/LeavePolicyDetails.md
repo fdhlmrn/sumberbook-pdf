@@ -75,8 +75,10 @@
 <br/>
 <br/>
 ###An edit leave policy page will be displayed containing old information inserted which can be alter.
+![Success Leave Policy Details](/Images/Leave/leavepolicydetails_success.png)
 <br/>
 <br/>
-<br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 ###To delete individual row, click on the right icon on the last columns and you will be prompted with an alert.
 ![Delete Policy Details](/Images/Leave/leavepolicydetails_delete.png)

@@ -76,10 +76,10 @@
 | Instruction  | Explanation |
 | ------------- | ------------- |
 | Address | Company's address. Need to be more than 10 characters |
-| Postcode  | |
-| City | |
-| State | |
-| Country | ||
+| Postcode  | City's poscode |
+| City | User's living city |
+| State | User's living state|
+| Country | User's living country |
 
 <br/>
 <br/>
@@ -92,10 +92,10 @@
 | Instruction  | Explanation |
 | ------------- | ------------- |
 | Same with Mailing Address checkbox | If same address is used, check |
-| Postcode  | |
-| City | |
-| State | |
-| Country | ||
+| Postcode  | City's poscode |
+| City | User's living city |
+| State | User's living state |
+| Country | User's living country |
 
 <br/>
 <br/>
